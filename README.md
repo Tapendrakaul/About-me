@@ -18,7 +18,6 @@
 - Cloud infrastructure projects
 
 📫 How to reach me:
-- Email: tapendrakaul1@example.com
 - LinkedIn: [Tapendra Kaul](https://www.linkedin.com/in/tapendra-kaul-350b49179)
 - Twitter: [@TapendraKaul](https://twitter.com/TapendraKaul)
 
